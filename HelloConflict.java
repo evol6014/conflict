@@ -5,10 +5,10 @@ public class HelloConflict {
 	
 		int sum=0;
 		int max = 100;
-		int i=0;
+		int a=0;
 
-		while(i < max) {
-			i++;
+		while(a < max) {
+			a++;
 			sum += i;			
 		
 		{		
